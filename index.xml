@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on my new hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 22 Jul 2016 16:36:20 CST</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Fri, 22 Jul 2016 16:36:20 CST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;hello,u&lt;/h3&gt;
+
+&lt;p&gt;abcd is 1234&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>aobot</title>
+      <link>http://localhost:1313/aobot/</link>
+      <pubDate>Fri, 22 Jul 2016 16:36:02 CST</pubDate>
+      
+      <guid>http://localhost:1313/aobot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
